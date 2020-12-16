@@ -19,4 +19,4 @@ Feel free to check out some recent projects of mine applying self-supervised lea
 Recently, I also started contributing to [Garage](https://github.com/rlworkgroup/garage) to make reinforcement learning more reproducible. 
 
 I like to go running and cycling in my free time :runner:. The day I figure out how to swim fast enough, I might go for a triathlon.
-I enjoy playing the piano and perceive it as deeply relaxing :notes:.
+

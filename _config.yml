@@ -19,9 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Adrian Ziegler
-#email: your-email@example.com
-#description: >- # this means to ignore newlines until "baseurl:"
-  #ML-focuesed student. Runner and Pianist in free time.
+email: adrian.ziegler@tum.de
+description: machine learning research and product management
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: adrian-ziegler
