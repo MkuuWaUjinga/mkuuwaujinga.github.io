@@ -4,7 +4,7 @@ profile_picture: /assets/moi.jpg
 ---
 Hi there, I am Adrian :wave:.
 
-I am currently doing my Masters in computer science and mathematics at TUM and an honors in technology management at CDTM. 
+I am currently doing my Masters in computer science and mathematics at TUM and an Honors in technology management at CDTM. 
 
 My goal is to contribute towards a future where artificial intelligence turns out as good for humanity.
 This drives my interest in research and product management. 
