@@ -15,4 +15,4 @@ I am also interested in learning how to manage cutting-edge research projects in
 
 Feel free to check out some recent projects applying self-supervised learning in [computer vision (CVPR 2022 full paper)](https://github.com/MkuuWaUjinga/leopart) or [reinforcement learning](https://github.com/MkuuWaUjinga/DeepMDP-SSL4RL).
 
-I like to go running and cycling in my free time :runner:. The day I figure out how to swim fast enough, I might go for a triathlon. Here are my favorite [swimming goggles](https://amzn.to/4cFM5Zj). My favorite coffee is from [Lavazza](https://amzn.to/3zCmDVA).
+I like to go running and cycling in my free time :runner:. The day I figure out how to swim fast enough, I might go for a triathlon. Here are my favorite [swimming goggles](https://amzn.to/4cFM5Zj). My favorite coffee is from [Lavazza](https://amzn.to/45XkVdA).
